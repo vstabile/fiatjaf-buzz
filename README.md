@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # FiatjafBuzz
 
 A nostr bot that posts 'GM fiatjaf' every other day, and if it's the weekend, make the bot say 'gfy fiatjaf' instead.
